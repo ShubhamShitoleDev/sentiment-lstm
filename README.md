@@ -51,9 +51,3 @@ python sentiment_lstm.py
 - Python, TensorFlow/Keras
 - LSTM, Embedding layers
 - IMDB dataset (built-in)
-
-## Future Improvements
-
-- Try Bidirectional LSTM for richer context
-- Use pretrained word embeddings (GloVe/Word2Vec) instead of learning from scratch
-- Deploy as a Streamlit app for live review classification
